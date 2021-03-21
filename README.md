@@ -24,3 +24,5 @@ Results:
 and real Tesla MACD from Market Watch:
 
 <img src="images/tesla_macd_market_watch.png">
+
+which is the same MACD plot but slightly differs due to x axis scaling.
