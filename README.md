@@ -2,10 +2,15 @@
 Project for a numerical methods class. MACD marker (used for a stock analysis) in Python.
 
 Technologies used:
+
 -Python
+
 -Anaconda
+
 -Jupyter Notebook
+
 -Pandas library
+
 -NumPy library
 
 Results:
